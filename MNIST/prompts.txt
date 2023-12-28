@@ -1,0 +1,5 @@
+tensorboard --logdir=C:\Users\nktru\OneDrive\Desktop\FMNIST
+
+magick montage C:\Users\nktru\OneDrive\Desktop\FMNIST\content\sample_data\sprite_data\*.png -geometry +0+0 -tile 70x70 sprite.png
+
+http://localhost:6006/
