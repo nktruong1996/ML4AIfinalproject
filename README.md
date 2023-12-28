@@ -9,5 +9,5 @@ Inside the the MNIST and FMNIST folders are:
 * .py files containing generative codes to configure the TensorBoard Projector function
 * prompts.txt containing the command lines for running the TensorBoard Projector, generating the sprite image and the local link for TensorBoard
 * sprite.png is the sprite image for the dataset used in the folder
-* .tsv files are used to feed information to TensorBoard
+* .tsv files are used to feed information to TensorBoard, the code to generate these files are in the ML4AI_Project_Progress.ipynb file.
 * checkpoint, embedding and .pbtxt files are generated from the .py files to configure TensorBoard
