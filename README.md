@@ -11,3 +11,4 @@ Inside the the MNIST and FMNIST folders are:
 * sprite.png is the sprite image for the dataset used in the folder
 * .tsv files are used to feed information to TensorBoard, the code to generate these files are in the ML4AI_Project_Progress.ipynb file.
 * checkpoint, embedding and .pbtxt files are generated from the .py files to configure TensorBoard
+mds.py is the file used to try computing the similarities for MDS locally and then used them to lessen the calculation time for the model, however this did not help much as the time saved was only a few minutes.
