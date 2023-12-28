@@ -1,0 +1,9 @@
+embeddings {
+  tensor_name: "embedding/.ATTRIBUTES/VARIABLE_VALUE"
+  metadata_path: "C:/Users/nktru/OneDrive/desktop/FMNIST/fmnist_labels.tsv"
+  sprite {
+    image_path: "C:/Users/nktru/OneDrive/Desktop/FMNIST/sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+}
